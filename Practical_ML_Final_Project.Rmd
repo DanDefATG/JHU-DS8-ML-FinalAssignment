@@ -8,6 +8,7 @@ output:
   html_document: default
   toc: yes
 always_allow_html: yes
+keep_md: true
 ---
 
 # Executive Summary
